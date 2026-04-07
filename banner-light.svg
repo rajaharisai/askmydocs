@@ -1,0 +1,14 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(290, 24)">
+    <!-- Logo Icon moved slightly upward -->
+    <g transform="translate(0, -4) scale(3)" fill="none" stroke="#0071e3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="12 2 2 7 12 12 22 7 12 2" />
+      <path d="M2 12L12 17L22 12" />
+      <path d="M2 17L12 22L22 17" />
+    </g>
+    <!-- Text positioned with increased spacing (x=96) -->
+    <text x="96" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-0.02em" fill="#1d1d1f">
+      Ask<tspan fill="#0071e3">My</tspan>Docs
+    </text>
+  </g>
+</svg>
